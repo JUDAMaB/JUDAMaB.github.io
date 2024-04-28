@@ -1,5 +1,5 @@
 ---
-bg: "tools.jpg"
+bg: "bird.jpg"
 layout: post
 title:  "HTML (7) - Meta Tag"
 crawlertitle: "About ES6"
@@ -51,8 +51,6 @@ author: JUDAMaB
     <meta name="description" content="How to Add Meta Tag">
 </body>
 ```
-
-[![railroad]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/rails.jpg)
 
 ## Viewport
 
