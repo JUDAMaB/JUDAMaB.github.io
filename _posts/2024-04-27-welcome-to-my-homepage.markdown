@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to My Homepage!"
 crawlertitle: "introduction of my Homepage"
 summary: "Jekyll default page"
-date:   2024-04-28 11:47:00 +0700
+date:   2024-04-27 11:47:00 +0700
 categories: posts
 tags: 'jekyll'
 author: JUDAMaB
@@ -20,5 +20,19 @@ ARCHIVE : 업로드된 포스트를 모아놓은 아카이브 입니다.
 RSS : 
 
 감사합니다.
+
+## 배운 언어
+
+제가 배운 언어는 다음과 같습니다.
+
+| 언어        | 숙련도       |
+| ----------- |:------------:|
+| C++         | 상           |
+| C#          | 중           |
+| Python      | 중           |
+| JAVA        | 중           |
+| html        | 하           |
+| JAVA Script | 하           |
+
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
