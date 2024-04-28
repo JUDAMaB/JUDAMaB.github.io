@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-crawlertitle: "How to use jekyll"
+title:  "Welcome to My Homepage!"
+crawlertitle: "introduction of my Homepage"
 summary: "Jekyll default page"
-date:   2016-06-28 23:09:47 +0700
+date:   2024-04-28 11:47:00 +0700
 categories: posts
 tags: 'jekyll'
-author: redVi
+author: JUDAMaB
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+안녕하세요
+
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
