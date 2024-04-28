@@ -6,7 +6,7 @@ crawlertitle: Markdown sample
 summary: Script for HTML page 6
 date:   2024-04-28
 categories: posts
-tags: ['front-end']
+tags: ['HTML']
 author: JUDAMaB
 bg: "sea_otter.jpg"
 ---

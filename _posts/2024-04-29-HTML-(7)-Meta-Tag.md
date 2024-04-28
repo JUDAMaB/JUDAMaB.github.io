@@ -6,7 +6,7 @@ crawlertitle: "About ES6"
 summary: "Script for HTML page 7"
 date:   2024-04-29 20:09:47 +0700
 categories: posts
-tags: ['front-end']
+tags: ['HTML']
 author: JUDAMaB
 ---
 
