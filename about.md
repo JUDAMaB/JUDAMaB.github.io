@@ -12,4 +12,6 @@ active: about
 
 테마 제작자의 [github 링크](https://github.com/jglovier/jekyll-new)를 클릭하여 들어가보세요!
 
+
+아래는 제가 좋아하는 고양이 동영상 입니다. :>
 <iframe width="1044" height="1044" src="https://www.youtube.com/embed/vTNvrOEkPrQ?si=Nm5bB5AvzL5iuV4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
