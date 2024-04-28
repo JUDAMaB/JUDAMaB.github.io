@@ -11,6 +11,8 @@ author: JUDAMaB
 bg: "sea_otter.jpg"
 ---
 
+위 문서에서는 폼 태그에 대해 공부한다.
+
 ## Form Tag
 
 사용자가 입력한 입력 값을 서버로 보내기 위해 사용하는 태그

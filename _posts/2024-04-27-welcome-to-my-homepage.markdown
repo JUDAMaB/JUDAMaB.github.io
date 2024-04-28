@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to My Homepage!"
 crawlertitle: "introduction of my Homepage"
-summary: "Jekyll default page"
+summary: "introduction of my Homepage"
 date:   2024-04-27 11:47:00 +0700
 categories: posts
 tags: 'jekyll'

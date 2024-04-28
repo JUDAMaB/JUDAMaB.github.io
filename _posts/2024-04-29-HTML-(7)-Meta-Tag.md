@@ -10,6 +10,8 @@ tags: ['front-end']
 author: JUDAMaB
 ---
 
+위 문서에서는 메타 태그에 대해 공부한다.
+
 ## Meta Tag
 
 메타 태그는 html 문서에 대한 메타 데이터를 정의한다.
