@@ -14,4 +14,4 @@ active: about
 
 
 아래는 제가 좋아하는 고양이 동영상 입니다. :>
-<iframe width="1044" height="1044" src="https://www.youtube.com/embed/vTNvrOEkPrQ?si=Nm5bB5AvzL5iuV4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1044" height="800" src="https://www.youtube.com/embed/vTNvrOEkPrQ?si=Nm5bB5AvzL5iuV4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
