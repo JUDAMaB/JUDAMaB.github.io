@@ -1,7 +1,7 @@
 ---
 bg: "tools.jpg"
 layout: post
-title:  HTML (6) - Form Tag
+title:  "HTML (6) - Form Tag"
 crawlertitle: Markdown sample
 summary: Script for HTML page 6
 date:   2024-04-28
@@ -21,11 +21,11 @@ bg: "sea_otter.jpg"
 
 ```html
 <form>
-		<input type="text" placeholder="아이디">
-	  <br>
-		<input type="text" placeholder="비밀번호">
-	  <br>
-		<input type="submit" value="로그인">
+	<input type="text" placeholder="아이디">
+	<br>
+	<input type="text" placeholder="비밀번호">
+	<br>
+	<input type="submit" value="로그인">
 </form>
 ```
 
