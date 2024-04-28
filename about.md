@@ -12,3 +12,4 @@ active: about
 
 테마 제작자의 [github 링크](https://github.com/jglovier/jekyll-new)를 클릭하여 들어가보세요!
 
+이것은 테스트 입니다.
